@@ -1,0 +1,11 @@
+drv.mod.o drv.o
+drv.ko
+drv.mod
+modules.order
+Module.symvers
+.drv.ko.cmd
+.drv.mod.cmd
+.drv.mod.o.cmd
+.drv.o.cmd
+.modules.order.cmd
+.Module.symvers.cmd
